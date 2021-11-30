@@ -3,7 +3,7 @@ session_start();
 include 'settings/config.php';
 
 ?>
-
+A
 <html>
 <head>
 <title>Berkah Mandiri Belajar</title>
